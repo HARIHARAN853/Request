@@ -1,1 +1,1 @@
-# Request
+In Request library,I learned how to give request to the server.I can give one real time example like Google search Engine,in this google work based on request library.First the user give the request to the server(Search Something) and then server will check the connection if the connection is ok(200) the server is respond(To display).
